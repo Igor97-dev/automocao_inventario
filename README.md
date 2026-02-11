@@ -64,4 +64,5 @@ Projeto criado para praticar automação de tarefas comuns na área de Suporte d
 ## 👨‍💻 Autor
 
 Igor Nascimento
+
 Analista de Suporte de TI
