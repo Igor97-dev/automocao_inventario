@@ -1,0 +1,5 @@
+patrimonio,tipo,usuario,data_compra,garantia_meses,status
+PC001,Notebook,João,2022-03-10,36,ativo
+PC002,Desktop,,2021-06-15,24,ativo
+PC003,Notebook,Maria,2020-01-20,24,manutencao
+PC004,Notebook,Carlos,2023-02-01,12,ativo
